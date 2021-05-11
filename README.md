@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satinom
-- 👀 I’m interested in andorid development
+- 👀 I’m interested in developing andorid proposals
 - 🌱 I’m currently learning kotlin and android developer
 - 💞️ I’m looking to collaborate on with companies that are related to android development
 - 📫 How to reach me Timurtuy@gmail.com and Instagram:@tuychiyevnodir
